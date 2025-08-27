@@ -1,0 +1,20 @@
+"ConnectionStrings": 
+  {
+    "DefaultConnection": "Data source=ZenDating.db"
+  }
+
+
+"Like this"
+
+{
+  "Logging": {
+    "LogLevel": {
+      "Default": "Information",
+      "Microsoft.AspNetCore": "Information"
+    }
+  },
+  "ConnectionStrings": 
+  {
+    "DefaultConnection": "Data source=ZenDating.db"
+  }
+}
